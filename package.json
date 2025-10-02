@@ -1,0 +1,20 @@
+{
+  "name": "101500671_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "Labtest 1 Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stuaarts/101500671_comp3123_labtest1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stuaarts/101500671_comp3123_labtest1/issues"
+  },
+  "homepage": "https://github.com/Stuaarts/101500671_comp3123_labtest1#readme"
+}
