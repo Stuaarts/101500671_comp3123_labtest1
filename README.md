@@ -52,4 +52,8 @@ node LAB-TEST-1/question-3/remove.js
 
 ### Screenshots
 
+<<<<<<< HEAD
 Screenshots of the outputs are included in the Screenshots/ folder and will be in the single pdf submission file.
+=======
+Screenshots of the outputs are included in the Screenshots/ folder and will be in the single pdf submission file.
+>>>>>>> 9090156fb9591afa226df637727dedd1b26fc59f
