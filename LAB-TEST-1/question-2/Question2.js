@@ -1,3 +1,4 @@
+// Lucas Tavares Criscuolo - Student ID: 101500671
 function resolvedPromise() {
   return new Promise((resolve) =>
     setTimeout(() => resolve('Resolved after 500ms'), 500)

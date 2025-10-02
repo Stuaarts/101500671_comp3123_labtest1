@@ -1,3 +1,4 @@
+// Lucas Tavares Criscuolo - Student ID: 101500671
 function parseCliMixed(arg) {
   if (!arg) return null;
   return arg.split(',').map((t) => {
@@ -21,7 +22,7 @@ function lowerCaseWords(arr) {
 
 // Test Case to ensure the code works as expected
 const cliInput = parseCliMixed(process.argv[2]);
-const demoInput = cliInput ?? ['Hello', 123, 'WORLD', true, 'eS6'];
+const demoInput = cliInput ?? ['LaB',123, 'TeST', 'ColLeGe', 'E56'];
 
 (async () => {
   try {

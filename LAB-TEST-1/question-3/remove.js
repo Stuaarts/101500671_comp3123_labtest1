@@ -1,3 +1,4 @@
+// Lucas Tavares Criscuolo - Student ID: 101500671
 const fs = require('fs');
 const path = require('path');
 
@@ -6,7 +7,7 @@ const logDir = path.join(__dirname, 'Logs');
 async function main() {
   try {
     const exists = fs.existsSync(logDir);
-
+    // In case user tries to delete non-existing directory
     if (!exists) {
       console.log('Logs directory does not exist.');
       return;
